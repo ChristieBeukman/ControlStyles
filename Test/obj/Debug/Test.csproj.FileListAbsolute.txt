@@ -1,0 +1,16 @@
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\bin\Debug\Test.exe.config
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\bin\Debug\Test.exe
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\bin\Debug\Test.pdb
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\App.g.cs
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\MainWindow.baml
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test.g.resources
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test.exe
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\obj\Debug\Test.pdb
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\bin\Debug\Style.dll
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Test\bin\Debug\Style.pdb

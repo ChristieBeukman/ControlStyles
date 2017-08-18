@@ -1,0 +1,13 @@
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\bin\Debug\Style.dll
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\bin\Debug\Style.pdb
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style_MarkupCompile.cache
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style_MarkupCompile.lref
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\GlassButtonStyle.baml
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style.g.resources
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style.Properties.Resources.resources
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style.csproj.GenerateResource.Cache
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style.dll
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style.pdb
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Test.g.cs
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Test.baml
+C:\Users\Christie\Source\Repos\ToDoListing\ToDoListing\Style\ControlStyles\Style\obj\Debug\Style.csprojResolveAssemblyReference.cache
